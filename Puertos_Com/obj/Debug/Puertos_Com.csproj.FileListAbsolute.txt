@@ -8,3 +8,13 @@ A:\Proyectos\Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.csproj.GenerateResour
 A:\Proyectos\Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.csproj.CoreCompileInputs.cache
 A:\Proyectos\Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.exe
 A:\Proyectos\Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.pdb
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\bin\Debug\Puertos_Com.exe.config
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\bin\Debug\Puertos_Com.exe
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\bin\Debug\Puertos_Com.pdb
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.csprojAssemblyReference.cache
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.Form1.resources
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.Properties.Resources.resources
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.csproj.GenerateResource.cache
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.csproj.CoreCompileInputs.cache
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.exe
+A:\Proyectos\Conexion_Puertos_Com\Puertos_Com\obj\Debug\Puertos_Com.pdb

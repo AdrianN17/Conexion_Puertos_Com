@@ -133,12 +133,25 @@ namespace Puertos_Com
 
             foreach (Process proceso in Process.GetProcesses())
             {
-                if (proceso.ProcessName == "nombre_proceso")
+                Console.WriteLine(proceso.ProcessName);
+                if (proceso.ProcessName == "Kill_the_Zombies")
                 {
                     proceso.Kill();
                 }
             }
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Process.Start("Kill_the_Zombies.exe");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }
